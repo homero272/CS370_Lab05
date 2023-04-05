@@ -6,6 +6,6 @@ Clone the repo to your local machine via the instructions provided on canvas (Se
 Open your finder/file explorer and navigate to the cloned repo (should be called 'CS370_Lab05')
 open the .uproject file
 rebuil modules (clicking yes when prompted)
-once opened install starter content
+once opened install starter content and NAVIGATE TO THE LAUNCHPAD BLUEPRINT AND ADD THE FIRE/EXPLOSION EFFECT TO THE PARTILE SYSTEM AND SOUND VARIABLE. 
 shaders may take some time to finish downloading
 when done, press play, and enjoy the game!
