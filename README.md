@@ -8,5 +8,4 @@ open the .uproject file
 rebuil modules (clicking yes when prompted)
 once opened install starter content
 shaders may take some time to finish downloading
-(Just in case refresh project code in the editor when open)
 when done, press play, and enjoy the game!
