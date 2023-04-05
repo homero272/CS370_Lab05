@@ -1,4 +1,4 @@
-# CS370_Lab05
+# CS370_Lab05 Launchpad simulator game using blueprints
 Homero Arellano
 INSTRUCTIONS TO ACCESS AND PLAY OUR GAME:
 Click on our git hub repo link https://github.com/homero272/CS370_Lab05
